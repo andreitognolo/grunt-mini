@@ -5,9 +5,10 @@ module.exports = function(grunt) {
   grunt.initConfig({
     shell: {
       snap: {
-        command: 'ls'
-      }, options: {
-        stdin: false
+        command: 'ls',
+        options: {
+          stdin: false
+        }
       }
     }
   });
