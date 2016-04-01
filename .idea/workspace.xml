@@ -32,7 +32,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
+              <folding>
+                <marker date="1459528584000" expanded="true" signature="137:257" placeholder="{...}" />
+                <marker date="1459528584000" expanded="true" signature="164:247" placeholder="{&quot;command&quot;: 'ls'...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,8 +43,8 @@
       <file leaf-file-name="shell.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/grunt-shell/tasks/shell.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75591713" vertical-offset="359" max-vertical-offset="1065">
-              <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.7337278" vertical-offset="359" max-vertical-offset="1065">
+              <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -254,14 +257,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
+          <folding>
+            <marker date="1459528584000" expanded="true" signature="137:257" placeholder="{...}" />
+            <marker date="1459528584000" expanded="true" signature="164:247" placeholder="{&quot;command&quot;: 'ls'...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/grunt-shell/tasks/shell.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75591713" vertical-offset="359" max-vertical-offset="1065">
-          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.7337278" vertical-offset="359" max-vertical-offset="1065">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
           <folding />
         </state>
       </provider>
