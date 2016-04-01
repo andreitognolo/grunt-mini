@@ -6,6 +6,8 @@ module.exports = function(grunt) {
     shell: {
       snap: {
         command: 'ls'
+      }, options: {
+        stdin: false
       }
     }
   });
