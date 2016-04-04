@@ -7,7 +7,7 @@ module.exports = function(grunt) {
       snap: {
         command: 'ls',
         options: {
-          stdin: true
+          stdin: false
         }
       }
     }
