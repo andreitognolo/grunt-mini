@@ -1,0 +1,6 @@
+language: node_js
+node_js: 4
+scripts: 
+  - export FOO=bar; echo $FOO
+  - echo FOO is $FOO
+
